@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLFlow/mlruns/0/1557a6c52fe44ac1984b356a7ae361d1/artifacts
+end_time: 1688767791690
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1557a6c52fe44ac1984b356a7ae361d1
+run_name: unruly-snail-913
+run_uuid: 1557a6c52fe44ac1984b356a7ae361d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688767764984
+status: 3
+tags: []
+user_id: Anjan
