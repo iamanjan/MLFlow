@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLFlow/mlruns/0/53c58bdd89bb4682a48f3d1d5de3dbe5/artifacts
+end_time: 1688119944150
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53c58bdd89bb4682a48f3d1d5de3dbe5
+run_name: honorable-cow-795
+run_uuid: 53c58bdd89bb4682a48f3d1d5de3dbe5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688119943886
+status: 3
+tags: []
+user_id: Anjan
