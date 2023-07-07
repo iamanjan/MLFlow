@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLFlow/mlruns/0/48ffdf15bb534866a4a89b3b358beb25/artifacts
+end_time: 1688767214213
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48ffdf15bb534866a4a89b3b358beb25
+run_name: amusing-horse-264
+run_uuid: 48ffdf15bb534866a4a89b3b358beb25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688767124728
+status: 3
+tags: []
+user_id: Anjan

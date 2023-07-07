@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLFlow/mlruns/0/60d8a2becbad4a97872fd6a507216fdc/artifacts
+end_time: 1688763221113
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60d8a2becbad4a97872fd6a507216fdc
+run_name: valuable-fish-998
+run_uuid: 60d8a2becbad4a97872fd6a507216fdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688763216736
+status: 3
+tags: []
+user_id: Anjan

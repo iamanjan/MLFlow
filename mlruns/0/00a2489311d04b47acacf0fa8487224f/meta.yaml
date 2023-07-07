@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLFlow/mlruns/0/00a2489311d04b47acacf0fa8487224f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00a2489311d04b47acacf0fa8487224f
+run_name: grandiose-wren-718
+run_uuid: 00a2489311d04b47acacf0fa8487224f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688767703921
+status: 1
+tags: []
+user_id: Anjan

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLFlow/mlruns/0/34d2fcb3c47c46aaaeed1bdf6a5f6e33/artifacts
+end_time: 1688767679291
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34d2fcb3c47c46aaaeed1bdf6a5f6e33
+run_name: glamorous-ray-25
+run_uuid: 34d2fcb3c47c46aaaeed1bdf6a5f6e33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688767642927
+status: 3
+tags: []
+user_id: Anjan

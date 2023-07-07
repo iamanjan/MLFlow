@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLFlow/mlruns/0/8d6847aa2ea348f6a17a568cce2f1b8b/artifacts
+end_time: 1688767617233
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d6847aa2ea348f6a17a568cce2f1b8b
+run_name: capable-lynx-72
+run_uuid: 8d6847aa2ea348f6a17a568cce2f1b8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688767559985
+status: 3
+tags: []
+user_id: Anjan
