@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLFlow/mlruns/0/ff4ced26326b4bb0a2a0dc8d8ec2627e/artifacts
+end_time: 1688768291583
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff4ced26326b4bb0a2a0dc8d8ec2627e
+run_name: charming-snipe-192
+run_uuid: ff4ced26326b4bb0a2a0dc8d8ec2627e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688768278798
+status: 4
+tags: []
+user_id: Anjan

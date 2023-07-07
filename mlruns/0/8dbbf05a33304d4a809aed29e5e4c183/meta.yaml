@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLFlow/mlruns/0/8dbbf05a33304d4a809aed29e5e4c183/artifacts
+end_time: 1688768226988
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8dbbf05a33304d4a809aed29e5e4c183
+run_name: bouncy-frog-549
+run_uuid: 8dbbf05a33304d4a809aed29e5e4c183
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688768123598
+status: 3
+tags: []
+user_id: Anjan

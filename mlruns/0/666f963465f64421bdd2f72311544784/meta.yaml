@@ -1,5 +1,5 @@
 artifact_uri: file:///E:/MLFlow/mlruns/0/666f963465f64421bdd2f72311544784/artifacts
-end_time: null
+end_time: 1688767911492
 entry_point_name: ''
 experiment_id: '0'
 lifecycle_stage: active
@@ -10,6 +10,6 @@ source_name: ''
 source_type: 4
 source_version: ''
 start_time: 1688767881513
-status: 1
+status: 3
 tags: []
 user_id: Anjan
